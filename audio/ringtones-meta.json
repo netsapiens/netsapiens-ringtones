@@ -1,50 +1,50 @@
 {
   "default": {
+    "delayRepeat": 750,
     "displayName": "Default",
     "fileName": "default.wav",
-    "name": "default",
-    "interval": 20000
+    "name": "default"
   },
   "ah_ha_moment": {
+    "delayRepeat": 750,
     "displayName": "Ah ha moment",
     "fileName": "ringtone_ah_ha_moment.wav",
-    "name": "ah_ha_moment",
-    "interval": 1000
+    "name": "ah_ha_moment"
   },
   "beep_bonanza": {
+    "delayRepeat": 750,
     "displayName": "Beep bonanza",
     "fileName": "ringtone_beep_bonanza.wav",
-    "name": "beep_bonanza",
-    "interval": 1000
+    "name": "beep_bonanza"
   },
   "catch_it": {
+    "delayRepeat": 750,
     "displayName": "Catch it",
     "fileName": "ringtone_catch_it.wav",
-    "name": "catch_it",
-    "interval": 1000
+    "name": "catch_it"
   },
   "the_old_phone": {
+    "delayRepeat": 750,
     "displayName": "The old phone",
     "fileName": "ringtone_the_old_phone.wav",
-    "name": "the_old_phone",
-    "interval": 1000
+    "name": "the_old_phone"
   },
   "underwater_ringing": {
+    "delayRepeat": 750,
     "displayName": "Underwater ringing",
     "fileName": "ringtone_underwater_ringing.wav",
-    "name": "underwater_ringing",
-    "interval": 1000
+    "name": "underwater_ringing"
   },
   "windy_dance": {
+    "delayRepeat": 750,
     "displayName": "Windy dance",
     "fileName": "ringtone_windy_dance.wav",
-    "name": "windy_dance",
-    "interval": 1000
+    "name": "windy_dance"
   },
   "windy_jungle": {
+    "delayRepeat": 750,
     "displayName": "Windy jungle",
     "fileName": "ringtone_windy_jungle.wav",
-    "name": "windy_jungle",
-    "interval": 1000
+    "name": "windy_jungle"
   }
 }
