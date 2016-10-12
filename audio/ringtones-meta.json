@@ -2,41 +2,49 @@
   "default": {
     "displayName": "Default",
     "fileName": "default.wav",
+    "name": "default",
     "interval": 20000
   },
   "ah_ha_moment": {
     "displayName": "Ah ha moment",
     "fileName": "ringtone_ah_ha_moment.wav",
+    "name": "ah_ha_moment",
     "interval": 1000
   },
   "beep_bonanza": {
     "displayName": "Beep bonanza",
     "fileName": "ringtone_beep_bonanza.wav",
+    "name": "beep_bonanza",
     "interval": 1000
   },
   "catch_it": {
     "displayName": "Catch it",
     "fileName": "ringtone_catch_it.wav",
+    "name": "catch_it",
     "interval": 1000
   },
   "the_old_phone": {
     "displayName": "The old phone",
     "fileName": "ringtone_the_old_phone.wav",
+    "name": "the_old_phone",
     "interval": 1000
   },
   "underwater_ringing": {
     "displayName": "Underwater ringing",
     "fileName": "ringtone_underwater_ringing.wav",
+    "name": "underwater_ringing",
     "interval": 1000
   },
   "windy_dance": {
     "displayName": "Windy dance",
     "fileName": "ringtone_windy_dance.wav",
+    "name": "windy_dance",
     "interval": 1000
   },
   "windy_jungle": {
     "displayName": "Windy jungle",
     "fileName": "ringtone_windy_jungle.wav",
+    "name": "windy_jungle",
     "interval": 1000
   }
 }
