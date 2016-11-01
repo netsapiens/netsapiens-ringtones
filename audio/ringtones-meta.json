@@ -1,6 +1,6 @@
 {
   "default": {
-    "delayRepeat": 20000,
+    "delayRepeat": 750,
     "displayName": "Default",
     "fileName": "default.wav",
     "name": "default"
